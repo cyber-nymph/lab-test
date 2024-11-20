@@ -35,3 +35,15 @@ nav ul li a {
     color: white;
     text-decoration: none;
 }
+main {
+    padding: 20px;
+    font-family: 'Sixtyfour Convergence', sans-serif;
+}
+
+main h2 {
+    text-align: center;
+}
+
+main p {
+    text-align: justify;
+}
